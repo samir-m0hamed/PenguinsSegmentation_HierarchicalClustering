@@ -1,5 +1,6 @@
 # 🐧 Clustering Palmer Penguins Species: Hierarchical Approach
 
+
 ## 📌 Project Overview
 This project implements an **Agglomerative Hierarchical Clustering** pipeline to identify natural groupings among Palmer Penguins based on physical attributes. **Unlike K-Means**, this approach builds a hierarchy of clusters, allowing for a detailed analysis of data relationships using **Dendrograms**.
 
